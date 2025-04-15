@@ -5,7 +5,8 @@ This project leverages machine learning techniques to identify and segment the m
 
 Tech Stack:
 Python, Flask/FastAPI, scikit-learn, etc.
-Deployment platform: Render
+Deployment platform: 
+Render
 
 Link:
 https://first-rep.onrender.com/
